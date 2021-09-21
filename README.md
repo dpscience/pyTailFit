@@ -6,12 +6,11 @@ Support this project and keep always updated about recent software releases, bug
 
 # pyTailFit
 
-![badge-followers](https://img.shields.io/github/followers/dpscience?style=social)
-![badge-stars](https://img.shields.io/github/stars/dpscience/pyTailFit?style=social)
-![badge-forks](https://img.shields.io/github/forks/dpscience/pyTailFit?style=social)
+![badge-language](https://img.shields.io/badge/language-Python-blue)
+![badge-license](https://img.shields.io/badge/license-GPL-blue)
 
-Copyright (c) 2017-2019 Danny Petschke (danny.petschke@uni-wuerzburg.de). All rights reserved.<br><br>
-<b>pyTailFit</b> - A simple Python program enabling tai-fitting for the analysis of lifetime spectra using least-square optimzation.
+Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de). All rights reserved.<br><br>
+<b>pyTailFit</b> - A simple Python program enabling tail-fitting for the analysis of lifetime spectra using least-square optimzation.
 
 # How to cite this Software?
 
