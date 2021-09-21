@@ -12,6 +12,22 @@ Support this project and keep always updated about recent software releases, bug
 Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de). All rights reserved.<br><br>
 <b>pyTailFit</b> - A simple Python program enabling tail-fitting for the analysis of lifetime spectra using least-square optimzation.
 
+# Quickstart Guide (see example.py)
+
+* import the 'pyTailFit' module
+
+```python
+import pyTailFit as ptf
+```
+
+* import your data (or generate it synthetically) and apply the fit using pyTailFit ...
+
+```python
+__,spectrum  = np.loadtxt('.../test-data.dat', delimiter='\t', skiprows=5, unpack=True, dtype='float')
+        
+time,data,fit=ptf.tail_fit(spectrum=spectrum[:],no_of_expected_decays=1,no_chn_right_of_peak=400,bin_width_in_ps=8.)
+```
+
 # How to cite this Software?
 
 * <b>You should at least cite the applied version of this program in your study.</b><br>
