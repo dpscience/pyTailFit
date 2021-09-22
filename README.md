@@ -34,10 +34,10 @@ time,data,fit=ptf.tail_fit(spectrum=spectrum[:],no_of_expected_decays=1,no_chn_r
 
 You can cite all versions by using the <b>DOI 10.5281/zenodo.5520011</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.408955036)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.5520011)
 
 ## ``v1.x``
-<b>pyTailFit v1.0</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.408955036)<br>
+<b>pyTailFit v1.0</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.5520011)<br>
  
  # License of pyTailFit (GNU General Public License) 
  Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de) All rights reserved.<br>
