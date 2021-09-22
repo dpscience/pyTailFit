@@ -32,9 +32,9 @@ time,data,fit=ptf.tail_fit(spectrum=spectrum[:],no_of_expected_decays=1,no_chn_r
 
 * <b>You should at least cite the applied version of this program in your study.</b><br>
 
-You can cite all versions by using the <b>DOI 10.5281/zenodo.5520011</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
+You can cite all versions by using the <b>DOI 10.5281/zenodo.5520010</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.5520011)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.5520010)
 
 ## ``v1.x``
 <b>pyTailFit v1.0</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.408955036.svg)](https://doi.org/10.5281/zenodo.5520011)<br>
